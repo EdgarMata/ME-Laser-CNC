@@ -20,8 +20,8 @@ Board Makerbase MKS DLC32
 # Controller Board
 I use the Makerbase MKS DLC32 board as a controller, which is an offline engraving master control kit designed for desktop engraving machines. The hardware is equipped with a 32-bit high-speed ESP32 module, has built-in WIFI function, and directly drives a 3.5-inch touch-sensitive color dislpay.
 It can perform fast engraving and also has a WEB page as a control interface.
-This board can also be controlled by a mobile APP with various functions, as well as can be used with LaserGRBL and LightBurn PC software.
+This board can also be controlled by a mobile APP with various functions, as well as can be used with [LaserGRBL](https://lasergrbl.com/) and [LightBurn](https://lightburnsoftware.com/) PC software.
 
-For more information about this board you can consult the official page Makerbase as well as the GitHub page.
+For more information about this board you can consult the official page [Makerbase](https://makerbase.com.cn/en/ "makerbase.com") as well as the [GitHub](https://github.com/makerbase-mks) page.
 
-If you want to buy this board please use my affiliate link, it helps my project a lot - Link to AliExpress
+If you want to buy this board please use my affiliate link, it helps my project a lot - Link to [AliExpress](https://s.click.aliexpress.com/e/_A4qTA1 "affiliate link")
