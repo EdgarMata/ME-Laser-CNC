@@ -108,3 +108,9 @@ Complete 3D Sketchup Model: [iFixGadge Store](https://www.ifixgadget.pt/loja/ME-
 |1	|X EndStop Collider				|Blue						|
 |1	|Y EndStop Collider				|Blue						|
 
+To download the STL files go to [Thingiverse](www.thingiverse.com/thing:5021795) or [Prusa Printers](https://www.prusaprinters.org/prints/84024-me-laser-cnc) 
+
+**_Warning_**, Note that all the content here is work that is still in development and can be changed without prior notice, so proceed at your own risk...
+
+If you like my work please consider sending me a beer :)
+[Send Beer](https://www.paypal.com/paypalme/iFixGadget)
