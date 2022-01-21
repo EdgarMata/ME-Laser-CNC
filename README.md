@@ -6,16 +6,15 @@ I present to you my  ME - Laser CNC:
 ![ME - Laser CNC 002](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/ME+-+Laser+CNC+001-1920w.jpg)
 
 ### Specifications
-Work Area 500 x 350 mm
-Total machine size of 740 x 560 x 260 mm
-
-3.5 inch touch display
-30W Diode Laser
-Adjustable laser height
-Web Browser controle interface
-Android Mobile App Interface
-USB PC Connection
-Board Makerbase MKS DLC32
+* Work Area 500 x 350 mm
+* Total machine size of 740 x 560 x 260 mm
+* 3.5 inch touch display
+* 30W Diode Laser
+* Adjustable laser height
+* Web Browser controle interface
+* Android Mobile App Interface
+* USB PC Connection
+* Board Makerbase MKS DLC32
 
 ### Controller Board
 I use the Makerbase MKS DLC32 board as a controller, which is an offline engraving master control kit designed for desktop engraving machines. The hardware is equipped with a 32-bit high-speed ESP32 module, has built-in WIFI function, and directly drives a 3.5-inch touch-sensitive color dislpay.
