@@ -77,7 +77,7 @@ Complete 3D Sketchup Model: [iFixGadge Store](https://www.ifixgadget.pt/loja/ME-
 |8	|Universal L bracket				|https://s.click.aliexpress.com/e/_A0oSME	|
 |1	|MDF Base Board					|						|
 |1	|Ceramic Base Tile				|						|
-|8	|M3 Threaded insert				!https://s.click.aliexpress.com/e/_AlYA0u	|
+|8	|M3 Threaded insert				|https://s.click.aliexpress.com/e/_AlYA0u	|
 
 ### Printed Parts
 
