@@ -116,12 +116,12 @@ If you like my work please consider sending me a beer :)
 [Send Beer](https://www.paypal.com/paypalme/iFixGadget)
 
 ### Road Map
-*Improve 3D drawing
-*..Add better wire strain relief system
-*..Adjust board location for better access to power supply plug
-*..Adjust X-Axis height to engrave thicker pieces
-*..Add emergency stop
-*..Add laser beam eye protection
-*Design enclosure box
-*Design assembly instructions
-*Design user manual
+* Improve 3D drawing
+*.. Add better wire strain relief system
+*.. Adjust board location for better access to power supply plug
+*.. Adjust X-Axis height to engrave thicker pieces
+*.. Add emergency stop
+*.. Add laser beam eye protection
+* Design enclosure box
+* Design assembly instructions
+* Design user manual
