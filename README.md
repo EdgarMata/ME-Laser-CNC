@@ -47,4 +47,64 @@ Complete 3D Sketchup Model: [iFixGadge Store](https://www.ifixgadget.pt/loja/ME-
 |1	|Power supply 12v 8A		|https://s.click.aliexpress.com/e/_9fPw4Z	|
 |2	|Ramps end stops		|https://s.click.aliexpress.com/e/_AOTmPR	|
 
+### Frame and hardware
+
+|Qty	|Part Name					|AliExpress					|
+|:---	|:---						|:---						|
+|2 Mt	|GT2 5mm Timing Belt				|https://s.click.aliexpress.com/e/_ANzw6H	|
+|3	|GT2 5mm 20 tooth Pulley			|https://s.click.aliexpress.com/e/_9xUtsI	|
+|10	|Solid V Wheel OpenBilds			|https://s.click.aliexpress.com/e/_ABu9xb	|
+|4	|Eccentric Spacer				|https://s.click.aliexpress.com/e/_A480Ui	|
+|2	|V-Slot 20x40 Linear Rail 500mm OpenBuilds	|https://s.click.aliexpress.com/e/_AdSiqA	|
+|2	|V-Slot 20x40 Linear Rail 600mm OpenBuilds	|https://s.click.aliexpress.com/e/_AdSiqA	|
+|1	|V-Slot 20x40 Linear Rail 646mm OpenBuilds	|https://s.click.aliexpress.com/e/_AdSiqA	|
+|1	|M6 threaded rod 120mm				|https://s.click.aliexpress.com/e/_AamMZc	|
+|6	|M6 Nut						|https://s.click.aliexpress.com/e/_989TjM	|
+|6	|M3 Nut						|https://s.click.aliexpress.com/e/_ALBAGK	|
+|42	|M5 T Nut					|https://s.click.aliexpress.com/e/_9vpEpG	|
+|6	|M3 washer					|https://s.click.aliexpress.com/e/_APFdTM	|
+|37	|Din 912 M3x10 Screws				|https://s.click.aliexpress.com/e/_9wr0bg	|
+|6	|Din 912 M3x12  Screws				|https://s.click.aliexpress.com/e/_9wr0bg	|
+|14	|Din 912 M3x15  Screws				|https://s.click.aliexpress.com/e/_9wr0bg	|
+|2	|Din 912 M3x30  Screws				|https://s.click.aliexpress.com/e/_9wr0bg	|
+|24	|Low Profile Screws M5x8			|https://s.click.aliexpress.com/e/_ASddiw	|
+|4	|Low Profile Screws M5x10			|https://s.click.aliexpress.com/e/_ASddiw	|
+|30	|Low Profile Screws M5x12			|https://s.click.aliexpress.com/e/_ASddiw	|
+|10	|Low Profile Screws M5x45			|https://s.click.aliexpress.com/e/_ASddiw	|
+|10	|M5 Lock nut					|https://s.click.aliexpress.com/e/_AUI5m6	|
+|4	|L Shape Aluminium Profile 15x15x500		|						|
+|2	|L Shape Aluminium Profile 15x15x646		|						|
+|8	|Universal L bracket				|https://s.click.aliexpress.com/e/_A0oSME	|
+|1	|MDF Base Board					|						|
+|1	|Ceramic Base Tile				|						|
+|8	|M3 Threaded insert				!https://s.click.aliexpress.com/e/_AlYA0u	|
+
+### Printed Parts
+
+|Qty	|Part Name					|Color						|
+|:---	|:---						|:---						|
+|2	|Chain End Mount				|Black						|
+|46	|Chain Link					|Black						|
+|46	|Chain Link Cover				|Black						|
+|2	|Chain Start Mount				|Black						|
+|1	|Knob Upper					|Black						|
+|1	|Knob Lower					|Black						|
+|6	|Belt Holder					|Blue						|
+|4	|Dragchain guide mount				|Blue						|
+|2	|EndStop Suporte				|Blue						|
+|4	|Foot						|Blue						|
+|1	|Laser Mount Motor Bracket			|Blue						|
+|1	|Laser Mont Plate				|Blue						|
+|1	|Laser Mount Suport				|Blue						|
+|1	|LCD Box					|Blue						|
+|2	|LCD Suporte L&R				|Blue						|
+|1	|Makerbase Box					|Blue						|
+|1	|MakerBase Box Cover				|Blue						|
+|32	|Spacer						|Blue						|
+|1	|X Chain Bracket				|Blue						|
+|2	|X Gantry Inner Mount Plate			|Blue						|
+|2	|X Gantry Outer Mount Plate L&R			|Blue						|
+|1	|Y Chain Bracket				|Blue						|
+|1	|X EndStop Collider				|Blue						|
+|1	|Y EndStop Collider				|Blue						|
 
