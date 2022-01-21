@@ -3,7 +3,7 @@ What is ME-Laser CNC?
 This project started out as a solution to solve a problem at the company where I work at the moment and has since evolved into something that I will share here...
 
 I present to you my  ME - Laser CNC:
-![ME - Laser CNC 002](https://user-images.githubusercontent.com/73250579/146403365-aa9c5476-7602-4caa-b012-6ac0c9a1d18b.jpg)
+![ME - Laser CNC 002](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/ME+-+Laser+CNC+001-1920w.jpg)
 
 # Specifications
 Work Area 500 x 350 mm
