@@ -125,3 +125,13 @@ If you like my work please consider sending me a beer :)
 * Design enclosure box
 * Design assembly instructions
 * Design user manual
+
+### Legal notice
+
+All content of the ME-Laser CNC project is licensed in accordance with the license **Creative Commons-Attribution-NonCommercial-ShareAlike**
+CC BY-NC-SA
+
+Projeto: **ME - Laser CNC**
+Autor: **Edgar Mata**
+
+[License Summary](https://creativecommons.org/licenses/by-nc-sa/4.0) | [See Legal Text](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
