@@ -3,7 +3,7 @@
 This project started out as a solution to solve a problem at the company where I work at the moment and has since evolved into something that I will share here...
 
 I present to you my  ME - Laser CNC:
-![ME - Laser CNC 002](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/ME+-+Laser+CNC+001-1920w.jpg)
+![ME - Laser CNC](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/ME+-+Laser+CNC+001-1920w.jpg)
 
 ### Specifications
 * Work Area 500 x 350 mm
@@ -21,9 +21,9 @@ I use the Makerbase MKS DLC32 board as a controller, which is an offline engravi
 It can perform fast engraving and also has a WEB page as a control interface.
 This board can also be controlled by a mobile APP with various functions, as well as can be used with [LaserGRBL](https://lasergrbl.com/) and [LightBurn](https://lightburnsoftware.com/) PC software.
 
-![ME - Laser CNC 002](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/1863638398-807966274-1920w.jpg)
-![ME - Laser CNC 002](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/10772418951689463713-1920w.jpg)
-![ME - Laser CNC 002](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/140004821104248758-1920w.jpg)
+![MKS DLC32 board 001](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/1863638398-807966274-1920w.jpg)
+![MKS DLC32 board 002](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/10772418951689463713-1920w.jpg)
+![MKS DLC32 board 003](https://lirp.cdn-website.com/da108bf1/dms3rep/multi/opt/140004821104248758-1920w.jpg)
 
 For more information about this board you can consult the official page [Makerbase](https://makerbase.com.cn/en/ "makerbase.com") as well as the [GitHub](https://github.com/makerbase-mks) page.
 
